@@ -17,7 +17,8 @@
     "swagger-ui-express": "^5.0.0"
   },
   "scripts": {
-    "start": "node swagger.js",
+    "start": "node server.js",
+    "swagger": "node swagger.js",
     "dev": "nodemon server.js"
   },
   "name": "voosh_task",
