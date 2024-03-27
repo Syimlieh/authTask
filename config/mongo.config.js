@@ -1,7 +1,7 @@
 require("dotenv").config();
 
 function getUrl() {
-  let URL = `mongodb://${process.env.MONGO_HOST}:${process.env.MONGO_PORT}/${process.env.MONGO_NAME}`;
+  let URL = `mongodb+srv://${process.env.MONGO_USERNAME}:${process.env.MONGO_PASSWORD}@cluster0.svwucke.mongodb.net/${process.env.MONGO_NAME}?retryWrites=true&w=majority`;
   return URL;
 }
 
