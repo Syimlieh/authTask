@@ -1,0 +1,11 @@
+{
+  "mongo": {
+    "collection": {
+      "USER": "users",
+      "TOKENS": "tokens"
+    }
+  },
+  "encryption": {
+    "salt_rounds": 12
+  }
+}
