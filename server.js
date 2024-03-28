@@ -17,12 +17,14 @@ const PORT = process.env.PORT || 4000;
 server.use(cors());
 
 // should be before passport
-server.use(session({
-  secret: 'keyboard cat',
-  resave: false,
-  saveUninitialized: true,
-  cookie: { secure: false }
-}))
+server.use(
+  session({
+    secret: process.env.SESSION_SECRET,
+    resave: false,
+    saveUninitialized: true,
+    cookie: { secure: false },
+  })
+);
 
 server.use(passport.initialize());
 
