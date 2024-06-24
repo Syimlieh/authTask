@@ -1,0 +1,2698 @@
+{
+    "InquiryResponseHeader": {
+      "ClientID": "007FZ03128",
+      "CustRefField": "TEST_CUST",
+      "ReportOrderNO": "1367334741",
+      "ProductCode": [
+        "CCR"
+      ],
+      "SuccessCode": "1",
+      "Date": "2024-05-22",
+      "Time": "16:17:35"
+    },
+    "InquiryRequestInfo": {
+      "InquiryPurpose": "00",
+      "FirstName": "RAJAT MALIK",
+      "InquiryAddresses": [
+        {
+          "seq": "1",
+          "AddressType": [
+            "H"
+          ],
+          "AddressLine1": "H No 67,Gali no 1 ,Laxmi nagar",
+          "State": "DL",
+          "Postal": "110092"
+        }
+      ],
+      "InquiryPhones": [
+        {
+          "seq": "1",
+          "PhoneType": [
+            "M"
+          ],
+          "Number": "9582682000"
+        }
+      ],
+      "IDDetails": [
+        {
+          "seq": "1",
+          "IDType": "M",
+          "IDValue": "837603004367",
+          "Source": "Inquiry"
+        },
+        {
+          "seq": "2",
+          "IDType": "T",
+          "IDValue": "EHPPM6613B",
+          "Source": "Inquiry"
+        }
+      ],
+      "DOB": "1996-11-17",
+      "MFIDetails": {
+        "FamilyDetails": [
+          {
+            "seq": "1",
+            "AdditionalNameType": "K01"
+          }
+        ]
+      }
+    },
+    "Score": [
+      {
+        "Type": "ERS",
+        "Version": "4.0"
+      }
+    ],
+    "CCRResponse": {
+      "Status": "1",
+      "CIRReportDataLst": [
+        {
+          "InquiryResponseHeader": {
+            "CustomerCode": "MOEZ",
+            "CustRefField": "TEST_CUST",
+            "ReportOrderNO": "1367334741",
+            "ProductCode": [
+              "PCS"
+            ],
+            "SuccessCode": "1",
+            "Date": "2024-05-22",
+            "Time": "16:17:35",
+            "HitCode": "11",
+            "CustomerName": "MOEZ"
+          },
+          "InquiryRequestInfo": {
+            "InquiryPurpose": "Other",
+            "FirstName": "RAJAT MALIK",
+            "InquiryAddresses": [
+              {
+                "seq": "1",
+                "AddressType": [
+                  "H"
+                ],
+                "AddressLine1": "H No 67,Gali no 1 ,Laxmi nagar",
+                "State": "DL",
+                "Postal": "110092"
+              }
+            ],
+            "InquiryPhones": [
+              {
+                "seq": "1",
+                "PhoneType": [
+                  "M"
+                ],
+                "Number": "9582682000"
+              }
+            ],
+            "IDDetails": [
+              {
+                "seq": "1",
+                "IDType": "M",
+                "IDValue": "837603004367",
+                "Source": "Inquiry"
+              },
+              {
+                "seq": "2",
+                "IDType": "T",
+                "IDValue": "EHPPM6613B",
+                "Source": "Inquiry"
+              }
+            ],
+            "DOB": "1996-11-17",
+            "MFIDetails": {
+              "FamilyDetails": [
+                {
+                  "seq": "1",
+                  "AdditionalNameType": "K01"
+                }
+              ]
+            }
+          },
+          "Score": [
+            {
+              "Type": "ERS",
+              "Version": "4.0"
+            }
+          ],
+          "CIRReportData": {
+            "IDAndContactInfo": {
+              "PersonalInfo": {
+                "Name": {
+                  "FullName": "RAJAT MALIK ",
+                  "FirstName": "RAJAT ",
+                  "LastName": "MALIK "
+                },
+                " AliasName": {},
+                "DateOfBirth": "1996-11-17",
+                "Gender": "Male",
+                "Age": {
+                  "Age": "27"
+                },
+                "PlaceOfBirthInfo": {},
+                "TotalIncome": "600000000"
+              },
+              "IdentityInfo": {
+                "PANId": [
+                  {
+                    "seq": "1",
+                    "ReportedDate": "2024-04-30",
+                    "IdNumber": "EHPPM6613B"
+                  }
+                ],
+                "VoterID": [
+                  {
+                    "seq": "1",
+                    "ReportedDate": "2022-03-31",
+                    "IdNumber": "YNJ1766161"
+                  }
+                ]
+              },
+              "AddressInfo": [
+                {
+                  "Seq": "1",
+                  "ReportedDate": "2024-04-30",
+                  "Address": "H N 400 KARAUDA HATHI 2 KARAUDA HATHI P S BABRI TAHSHIL SHOMLI DIST  SHAMLI MUZAFFARNAGAR MUZAFFARNAGAR 1563 UTTAR PRADESH",
+                  "State": "UP",
+                  "Postal": "247776",
+                  "Type": "Permanent"
+                },
+                {
+                  "Seq": "2",
+                  "ReportedDate": "2023-11-30",
+                  "Address": "KAILASH BUILDING 6 TH FLOOR  OFFICE  NO 608  NEAR BARAKHAMBA METRO DELHI",
+                  "State": "DL",
+                  "Postal": "110001",
+                  "Type": "Office"
+                },
+                {
+                  "Seq": "3",
+                  "ReportedDate": "2023-11-30",
+                  "Address": "HOUSE NO-400 KARAUDA HATHI KARAUNDA MUZAFFARNAGAR 1",
+                  "State": "UP",
+                  "Postal": "247776",
+                  "Type": "Permanent"
+                },
+                {
+                  "Seq": "4",
+                  "ReportedDate": "2023-11-30",
+                  "Address": "A 10  NEAR HCL NOIDA  SECTOR 16 GAUTAM BUDH NAGAR",
+                  "State": "UP",
+                  "Postal": "201301",
+                  "Type": "Primary"
+                },
+                {
+                  "Seq": "5",
+                  "ReportedDate": "2022-02-28",
+                  "Address": "400 KARAUDA HATHI KARAUNDA KARODA",
+                  "State": "UP",
+                  "Postal": "247776",
+                  "Type": "Permanent"
+                }
+              ],
+              "PhoneInfo": [
+                {
+                  "seq": "1",
+                  "typeCode": "H",
+                  "ReportedDate": "2022-02-28",
+                  "Number": "1312345678"
+                },
+                {
+                  "seq": "2",
+                  "typeCode": "H",
+                  "ReportedDate": "2024-04-30",
+                  "Number": "6395151091"
+                },
+                {
+                  "seq": "3",
+                  "typeCode": "M",
+                  "ReportedDate": "2024-04-30",
+                  "Number": "6395151091"
+                },
+                {
+                  "seq": "4",
+                  "typeCode": "M",
+                  "ReportedDate": "2022-01-28",
+                  "Number": "06395151091"
+                },
+                {
+                  "seq": "5",
+                  "typeCode": "T",
+                  "ReportedDate": "2023-11-30",
+                  "Number": "6395151091"
+                },
+                {
+                  "seq": "6",
+                  "typeCode": "T",
+                  "ReportedDate": "2022-02-28",
+                  "Number": "112345678"
+                }
+              ],
+              "EmailAddressInfo": [
+                {
+                  "seq": "1",
+                  "ReportedDate": "2023-11-30",
+                  "EmailAddress": "RAJATPARAMJEET@GMAIL.COM"
+                }
+              ]
+            },
+            "RetailAccountDetails": [
+              {
+                "seq": "1",
+                "AccountNumber": "**********",
+                "Institution": "BANK",
+                "AccountType": "Personal Loan",
+                "OwnershipType": "Individual",
+                "Balance": "0",
+                "PastDueAmount": "0",
+                "LastPayment": "1",
+                "Open": "Yes",
+                "SanctionAmount": "30000",
+                "LastPaymentDate": "2021-08-05",
+                "DateReported": "2024-04-30",
+                "DateOpened": "2021-08-05",
+                "RepaymentTenure": "36",
+                "TermFrequency": "Monthly",
+                "AccountStatus": "Current Account",
+                "source": "INDIVIDUAL",
+                "History48Months": [
+                  {
+                    "key": "04-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-24",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-23",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "09-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "07-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "06-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "05-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "04-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "09-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "07-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "06-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "05-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "04-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-21",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "09-21",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-21",
+                    "PaymentStatus": "NEW",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  }
+                ]
+              },
+              {
+                "seq": "2",
+                "AccountNumber": "**********",
+                "Institution": "FINANCE",
+                "AccountType": "Consumer Loan",
+                "OwnershipType": "Individual",
+                "Balance": "0",
+                "PastDueAmount": "0",
+                "Open": "Yes",
+                "SanctionAmount": "2000",
+                "DateReported": "2024-04-30",
+                "DateOpened": "2022-04-15",
+                "TermFrequency": "Monthly",
+                "AccountStatus": "Current Account",
+                "AssetClassification": "Standard",
+                "source": "INDIVIDUAL",
+                "History48Months": [
+                  {
+                    "key": "04-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "03-24",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "01-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "12-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "11-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "10-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "09-23",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "07-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "06-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "05-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "04-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "03-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "02-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "01-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "12-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "11-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "10-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "09-22",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "07-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "06-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "05-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "04-22",
+                    "PaymentStatus": "NEW",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  }
+                ]
+              },
+              {
+                "seq": "3",
+                "AccountNumber": "**********",
+                "Institution": "BANK",
+                "AccountType": "Consumer Loan",
+                "OwnershipType": "Individual",
+                "Balance": "0",
+                "PastDueAmount": "0",
+                "Open": "Yes",
+                "SanctionAmount": "8000",
+                "DateReported": "2024-04-30",
+                "DateOpened": "2022-04-15",
+                "TermFrequency": "Monthly",
+                "AccountStatus": "Current Account",
+                "AssetClassification": "Standard",
+                "source": "INDIVIDUAL",
+                "History48Months": [
+                  {
+                    "key": "04-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "03-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "02-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "01-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "12-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "11-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "10-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "09-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "08-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "07-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "06-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "05-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "04-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "03-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "02-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "01-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "12-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "11-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "10-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "09-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "08-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "07-22",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "06-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "05-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  }
+                ]
+              },
+              {
+                "seq": "4",
+                "AccountNumber": "**********",
+                "Institution": "BANK",
+                "AccountType": "Credit Card",
+                "OwnershipType": "Individual",
+                "Balance": "0",
+                "PastDueAmount": "0",
+                "LastPayment": "1422",
+                "Open": "Yes",
+                "HighCredit": "1423",
+                "LastPaymentDate": "2024-04-03",
+                "DateReported": "2024-04-30",
+                "DateOpened": "2023-10-21",
+                "TermFrequency": "Monthly",
+                "CreditLimit": "93000",
+                "AccountStatus": "Current Account",
+                "source": "INDIVIDUAL",
+                "History48Months": [
+                  {
+                    "key": "04-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-24",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-24",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-24",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-23",
+                    "PaymentStatus": "NEW",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  }
+                ]
+              },
+              {
+                "seq": "5",
+                "AccountNumber": "**********",
+                "Institution": "BANK",
+                "AccountType": "Credit Card",
+                "OwnershipType": "Individual",
+                "Balance": "1304",
+                "PastDueAmount": "0",
+                "Open": "Yes",
+                "HighCredit": "5472",
+                "LastPaymentDate": "2024-03-22",
+                "DateReported": "2024-04-12",
+                "DateOpened": "2022-01-04",
+                "CreditLimit": "100000",
+                "AccountStatus": "Current Account",
+                "source": "INDIVIDUAL",
+                "History48Months": [
+                  {
+                    "key": "04-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "09-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "07-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "06-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "05-23",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "04-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-23",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-23",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-23",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-22",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "09-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "07-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "06-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "05-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "04-22",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-22",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  }
+                ]
+              },
+              {
+                "seq": "6",
+                "AccountNumber": "**********",
+                "Institution": "BANK",
+                "AccountType": "Credit Card",
+                "OwnershipType": "Individual",
+                "Balance": "44579",
+                "PastDueAmount": "0",
+                "Open": "Yes",
+                "HighCredit": "16820",
+                "LastPaymentDate": "2024-03-22",
+                "DateReported": "2024-04-08",
+                "DateOpened": "2019-01-24",
+                "CreditLimit": "100000",
+                "AccountStatus": "Current Account",
+                "source": "INDIVIDUAL",
+                "History48Months": [
+                  {
+                    "key": "04-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-24",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "09-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "07-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "06-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "05-23",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "04-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-23",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-23",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-22",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "09-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "07-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "06-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "05-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "04-22",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-22",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-22",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-21",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "09-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "07-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "06-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "05-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "04-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-20",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "09-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "07-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "06-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "05-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  }
+                ]
+              },
+              {
+                "seq": "7",
+                "AccountNumber": "**********",
+                "Institution": "FINANCE",
+                "AccountType": "Personal Loan",
+                "OwnershipType": "Individual",
+                "Balance": "98293",
+                "PastDueAmount": "0",
+                "LastPayment": "23479",
+                "Open": "Yes",
+                "SanctionAmount": "305000",
+                "LastPaymentDate": "2024-03-02",
+                "DateReported": "2024-03-31",
+                "DateOpened": "2022-07-21",
+                "InterestRate": "17.989",
+                "InstallmentAmount": "5478",
+                "TermFrequency": "Monthly",
+                "AccountStatus": "Current Account",
+                "AssetClassification": "Standard",
+                "source": "INDIVIDUAL",
+                "History48Months": [
+                  {
+                    "key": "03-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "02-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "01-24",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "12-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "11-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "10-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "09-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "08-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "07-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "06-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "05-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "04-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "03-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "02-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "01-23",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "12-22",
+                    "PaymentStatus": "NEW",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "11-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "10-22",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "09-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "08-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "07-22",
+                    "PaymentStatus": "NEW",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  }
+                ]
+              },
+              {
+                "seq": "8",
+                "AccountNumber": "**********",
+                "Institution": "BANK",
+                "AccountType": "Credit Card",
+                "OwnershipType": "Individual",
+                "Balance": "0",
+                "PastDueAmount": "0",
+                "Open": "Yes",
+                "HighCredit": "26187",
+                "LastPaymentDate": "2020-10-03",
+                "DateReported": "2021-01-31",
+                "DateOpened": "2020-01-06",
+                "TermFrequency": "Monthly",
+                "AccountStatus": "Current Account",
+                "source": "INDIVIDUAL",
+                "History48Months": [
+                  {
+                    "key": "01-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "09-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "07-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "06-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "05-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "04-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  }
+                ]
+              },
+              {
+                "seq": "9",
+                "AccountNumber": "**********",
+                "Institution": "FINANCE",
+                "AccountType": "Credit Card",
+                "OwnershipType": "Individual",
+                "Balance": "0",
+                "PastDueAmount": "0",
+                "Open": "No",
+                "HighCredit": "70838",
+                "LastPaymentDate": "2022-08-08",
+                "DateReported": "2024-04-28",
+                "DateOpened": "2020-10-14",
+                "DateClosed": "2022-07-22",
+                "Reason": "Closed Account",
+                "TermFrequency": "Monthly",
+                "CreditLimit": "79000",
+                "AccountStatus": "Closed Account",
+                "source": "INDIVIDUAL",
+                "History48Months": [
+                  {
+                    "key": "04-24",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-24",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-24",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-24",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-23",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "09-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "07-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "06-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "05-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "04-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-22",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-22",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-22",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "09-22",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-22",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "07-22",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "06-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "05-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "04-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-21",
+                    "PaymentStatus": "01+",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "09-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "07-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "06-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "05-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "04-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  }
+                ]
+              },
+              {
+                "seq": "10",
+                "AccountNumber": "**********",
+                "Institution": "FINANCE",
+                "AccountType": "Credit Card",
+                "OwnershipType": "Individual",
+                "Balance": "-2",
+                "PastDueAmount": "0",
+                "Open": "No",
+                "HighCredit": "30937",
+                "LastPaymentDate": "2022-07-01",
+                "DateReported": "2024-03-12",
+                "DateOpened": "2021-09-19",
+                "DateClosed": "2022-07-25",
+                "Reason": "Closed Account",
+                "TermFrequency": "Monthly",
+                "CreditLimit": "0",
+                "AccountStatus": "Closed Account",
+                "source": "INDIVIDUAL",
+                "History48Months": [
+                  {
+                    "key": "03-24",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-24",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-24",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "09-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "07-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "06-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "05-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "04-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-22",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-22",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-22",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "09-22",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-22",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "07-22",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "06-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "05-22",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "04-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "09-21",
+                    "PaymentStatus": "NEW",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  }
+                ]
+              },
+              {
+                "seq": "11",
+                "AccountNumber": "**********",
+                "Institution": "FINANCE",
+                "AccountType": "Credit Card",
+                "OwnershipType": "Individual",
+                "Balance": "0",
+                "PastDueAmount": "0",
+                "Open": "No",
+                "HighCredit": "0",
+                "DateReported": "2023-12-30",
+                "DateOpened": "2021-09-30",
+                "DateClosed": "2021-10-04",
+                "Reason": "Closed Account",
+                "TermFrequency": "Monthly",
+                "CreditLimit": "0",
+                "AccountStatus": "Closed Account",
+                "source": "INDIVIDUAL",
+                "History48Months": [
+                  {
+                    "key": "12-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "09-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "07-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "06-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "05-23",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "04-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-23",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-22",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-22",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-22",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "09-22",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-22",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "07-22",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "06-22",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "05-22",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "04-22",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-22",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-22",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-22",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-21",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-21",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  }
+                ]
+              },
+              {
+                "seq": "12",
+                "AccountNumber": "**********",
+                "Institution": "BANK",
+                "AccountType": "Credit Card",
+                "OwnershipType": "Individual",
+                "Balance": "-1",
+                "PastDueAmount": "0",
+                "Open": "No",
+                "HighCredit": "51652",
+                "LastPaymentDate": "2022-07-21",
+                "DateReported": "2022-07-31",
+                "DateOpened": "2020-01-06",
+                "DateClosed": "2022-07-25",
+                "Reason": "Closed Account",
+                "TermFrequency": "Monthly",
+                "CreditLimit": "38000",
+                "AccountStatus": "Closed Account",
+                "source": "INDIVIDUAL",
+                "History48Months": [
+                  {
+                    "key": "07-22",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "06-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "05-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "04-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-22",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-22",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-21",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "09-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "07-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "06-21",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "05-21",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "04-21",
+                    "PaymentStatus": "*",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "03-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "02-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "01-21",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "12-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "10-20",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  }
+                ]
+              },
+              {
+                "seq": "13",
+                "AccountNumber": "**********",
+                "Institution": "BANK",
+                "AccountType": "Credit Card",
+                "OwnershipType": "Individual",
+                "Balance": "0",
+                "PastDueAmount": "0",
+                "Open": "No",
+                "HighCredit": "1060",
+                "DateReported": "2021-12-31",
+                "DateOpened": "2021-11-12",
+                "DateClosed": "2021-12-21",
+                "Reason": "Closed Account",
+                "CreditLimit": "75000",
+                "AccountStatus": "Closed Account",
+                "source": "INDIVIDUAL",
+                "History48Months": [
+                  {
+                    "key": "12-21",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "11-21",
+                    "PaymentStatus": "NEW",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  }
+                ]
+              },
+              {
+                "seq": "14",
+                "AccountNumber": "**********",
+                "Institution": "BANK",
+                "AccountType": "Credit Card",
+                "OwnershipType": "Individual",
+                "Balance": "0",
+                "PastDueAmount": "0",
+                "Open": "No",
+                "HighCredit": "1180",
+                "DateReported": "2021-09-30",
+                "DateOpened": "2021-04-07",
+                "DateClosed": "2021-05-27",
+                "Reason": "Closed Account",
+                "TermFrequency": "Monthly",
+                "CreditLimit": "28000",
+                "AccountStatus": "Closed Account",
+                "source": "INDIVIDUAL",
+                "History48Months": [
+                  {
+                    "key": "09-21",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "08-21",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "07-21",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "06-21",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  },
+                  {
+                    "key": "05-21",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "*"
+                  }
+                ]
+              }
+            ],
+            "RetailAccountsSummary": {
+              "NoOfAccounts": "14",
+              "NoOfActiveAccounts": "8",
+              "NoOfWriteOffs": "0",
+              "TotalPastDue": "0.00",
+              "MostSevereStatusWithIn24Months": "Non-Delnqt",
+              "SingleHighestCredit": "26187.00",
+              "SingleHighestSanctionAmount": "305000.00",
+              "TotalHighCredit": "49902.00",
+              "AverageOpenBalance": "18022.00",
+              "SingleHighestBalance": "98293.00",
+              "NoOfPastDueAccounts": "0",
+              "NoOfZeroBalanceAccounts": "5",
+              "RecentAccount": "Credit Card on 21-10-2023",
+              "OldestAccount": "Credit Card on 24-01-2019",
+              "TotalBalanceAmount": "144176.00",
+              "TotalSanctionAmount": "345000.00",
+              "TotalCreditLimit": "293000.0",
+              "TotalMonthlyPaymentAmount": "5478.00"
+            },
+            "ScoreDetails": [
+              {
+                "Type": "ERS",
+                "Version": "4.0",
+                "Name": "ERS4.0",
+                "Value": "814",
+                "ScoringElements": [
+                  {
+                    "type": "RES",
+                    "seq": "1",
+                    "code": "703",
+                    "Description": "Total Utilization"
+                  },
+                  {
+                    "type": "RES",
+                    "seq": "2",
+                    "code": "702",
+                    "Description": "Total Credit Exposure"
+                  },
+                  {
+                    "type": "RES",
+                    "seq": "3",
+                    "code": "706",
+                    "Description": "Number of Inquiries"
+                  }
+                ]
+              }
+            ],
+            "Enquiries": [
+              {
+                "seq": "1",
+                "Institution": "BANK",
+                "Date": "2023-06-10",
+                "Time": "11:07",
+                "RequestPurpose": "10",
+                "Amount": "1000"
+              },
+              {
+                "seq": "2",
+                "Institution": "FINANCE",
+                "Date": "2023-05-31",
+                "Time": "14:41",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "3",
+                "Institution": "BANK",
+                "Date": "2022-10-20",
+                "Time": "22:08",
+                "RequestPurpose": "10",
+                "Amount": "1000"
+              },
+              {
+                "seq": "4",
+                "Institution": "BANK",
+                "Date": "2022-01-21",
+                "Time": "19:38",
+                "RequestPurpose": "10",
+                "Amount": "1000"
+              },
+              {
+                "seq": "5",
+                "Institution": "BANK",
+                "Date": "2022-01-21",
+                "Time": "11:49",
+                "RequestPurpose": "10",
+                "Amount": "1000"
+              },
+              {
+                "seq": "6",
+                "Institution": "BANK",
+                "Date": "2022-01-19",
+                "Time": "18:51",
+                "RequestPurpose": "10",
+                "Amount": "1000"
+              },
+              {
+                "seq": "7",
+                "Institution": "BANK",
+                "Date": "2022-01-06",
+                "Time": "20:43",
+                "RequestPurpose": "10",
+                "Amount": "1000"
+              },
+              {
+                "seq": "8",
+                "Institution": "BANK",
+                "Date": "2022-01-04",
+                "Time": "20:28",
+                "RequestPurpose": "10",
+                "Amount": "1000"
+              },
+              {
+                "seq": "9",
+                "Institution": "BANK",
+                "Date": "2018-09-29",
+                "Time": "14:41",
+                "RequestPurpose": "10",
+                "Amount": "1000"
+              }
+            ],
+            "EnquirySummary": {
+              "Purpose": "ALL",
+              "Total": "9",
+              "Past30Days": "0",
+              "Past12Months": "2",
+              "Past24Months": "3",
+              "Recent": "2023-06-10"
+            },
+            "OtherKeyInd": {
+              "AgeOfOldestTrade": "64",
+              "NumberOfOpenTrades": "7",
+              "AllLinesEVERWritten": "0.00",
+              "AllLinesEVERWrittenIn9Months": "0",
+              "AllLinesEVERWrittenIn6Months": "0"
+            },
+            "RecentActivities": {
+              "AccountsDeliquent": "0",
+              "AccountsOpened": "0",
+              "TotalInquiries": "0",
+              "AccountsUpdated": "9"
+            }
+          }
+        },
+        {
+          "InquiryResponseHeader": {
+            "ClientID": "007FZ03128",
+            "CustRefField": "TEST_CUST",
+            "ReportOrderNO": "1367334741",
+            "ProductCode": [
+              "MCS"
+            ],
+            "SuccessCode": "1",
+            "Date": "2024-05-22",
+            "Time": "16:17:35",
+            "HitCode": "00"
+          },
+          "InquiryRequestInfo": {
+            "InquiryPurpose": "00",
+            "FirstName": "RAJAT MALIK",
+            "InquiryAddresses": [
+              {
+                "seq": "1",
+                "AddressType": [
+                  "H"
+                ],
+                "AddressLine1": "H No 67,Gali no 1 ,Laxmi nagar",
+                "State": "DL",
+                "Postal": "110092"
+              }
+            ],
+            "InquiryPhones": [
+              {
+                "seq": "1",
+                "PhoneType": [
+                  "M"
+                ],
+                "Number": "9582682000"
+              }
+            ],
+            "IDDetails": [
+              {
+                "seq": "1",
+                "IDType": "M",
+                "IDValue": "837603004367",
+                "Source": "Inquiry"
+              },
+              {
+                "seq": "2",
+                "IDType": "T",
+                "IDValue": "EHPPM6613B",
+                "Source": "Inquiry"
+              }
+            ],
+            "DOB": "1996-11-17",
+            "MFIDetails": {
+              "FamilyDetails": [
+                {
+                  "seq": "1",
+                  "AdditionalNameType": "K01"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }

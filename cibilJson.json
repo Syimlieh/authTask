@@ -1,0 +1,2683 @@
+{
+    "InquiryResponseHeader": {
+      "ClientID": "028FZ00016",
+      "CustRefField": "123456",
+      "ReportOrderNO": "16009230",
+      "ProductCode": [
+        "CCR"
+      ],
+      "SuccessCode": "1",
+      "Date": "2024-04-17",
+      "Time": "16:19:15"
+    },
+    "InquiryRequestInfo": {
+      "InquiryPurpose": "00",
+      "FirstName": "RAM SINGH BHANDARI",
+      "InquiryAddresses": [
+        {
+          "seq": "1",
+          "AddressType": [
+            "H"
+          ],
+          "AddressLine1": "169 RAJEEV NAGAR  TARLI KANDOLI DEHRADUN UTTARAKHAND DEHRADUN",
+          "State": "UK",
+          "Postal": "249145"
+        }
+      ],
+      "InquiryPhones": [
+        {
+          "seq": "1",
+          "PhoneType": [
+            "M"
+          ],
+          "Number": "8191817766"
+        }
+      ],
+      "IDDetails": [
+        {
+          "seq": "1",
+          "IDType": "T",
+          "IDValue": "ARSPB2789E",
+          "Source": "Inquiry"
+        },
+        {
+          "seq": "2",
+          "IDType": "P",
+          "Source": "Inquiry"
+        },
+        {
+          "seq": "3",
+          "IDType": "V",
+          "Source": "Inquiry"
+        },
+        {
+          "seq": "4",
+          "IDType": "D",
+          "Source": "Inquiry"
+        },
+        {
+          "seq": "5",
+          "IDType": "M",
+          "Source": "Inquiry"
+        },
+        {
+          "seq": "6",
+          "IDType": "R",
+          "Source": "Inquiry"
+        },
+        {
+          "seq": "7",
+          "IDType": "O",
+          "Source": "Inquiry"
+        }
+      ],
+      "DOB": "1960-05-30",
+      "MFIDetails": {
+        "FamilyDetails": [
+          {
+            "seq": "1",
+            "AdditionalNameType": "K01",
+            "AdditionalName": "LAXMAN BHANDARI"
+          },
+          {
+            "seq": "2",
+            "AdditionalNameType": "K01"
+          }
+        ]
+      }
+    },
+    "Score": [
+      {
+        "Type": "ERS",
+        "Version": "4.0"
+      }
+    ],
+    "CCRResponse": {
+      "Status": "1",
+      "CIRReportDataLst": [
+        {
+          "InquiryResponseHeader": {
+            "CustomerCode": "SKSM",
+            "CustRefField": "123456",
+            "ReportOrderNO": "16009230",
+            "ProductCode": [
+              "PCS"
+            ],
+            "SuccessCode": "1",
+            "Date": "2024-04-17",
+            "Time": "16:19:12",
+            "HitCode": "10",
+            "CustomerName": "SKSM"
+          },
+          "InquiryRequestInfo": {
+            "InquiryPurpose": "Other",
+            "FirstName": "RAM SINGH BHANDARI",
+            "InquiryAddresses": [
+              {
+                "seq": "1",
+                "AddressType": [
+                  "H"
+                ],
+                "AddressLine1": "169 RAJEEV NAGAR  TARLI KANDOLI DEHRADUN UTTARAKHAND DEHRADUN",
+                "State": "UK",
+                "Postal": "249145"
+              }
+            ],
+            "InquiryPhones": [
+              {
+                "seq": "1",
+                "PhoneType": [
+                  "M"
+                ],
+                "Number": "8191817766"
+              }
+            ],
+            "IDDetails": [
+              {
+                "seq": "1",
+                "IDType": "T",
+                "IDValue": "ARSPB2789E",
+                "Source": "Inquiry"
+              }
+            ],
+            "DOB": "1960-05-30",
+            "MFIDetails": {
+              "FamilyDetails": [
+                {
+                  "seq": "1",
+                  "AdditionalNameType": "K01",
+                  "AdditionalName": "LAXMAN BHANDARI"
+                },
+                {
+                  "seq": "2",
+                  "AdditionalNameType": "K01"
+                }
+              ]
+            }
+          },
+          "Score": [
+            {
+              "Type": "ERS",
+              "Version": "4.0"
+            }
+          ],
+          "CIRReportData": {
+            "IDAndContactInfo": {
+              "PersonalInfo": {
+                "Name": {
+                  "FullName": "RAM SINGH BHANDARI ",
+                  "FirstName": "RAM ",
+                  "MiddleName": "SINGH ",
+                  "LastName": "BHANDARI "
+                },
+                " AliasName": {},
+                "DateOfBirth": "1960-05-30",
+                "Gender": "Male",
+                "Age": {
+                  "Age": "63"
+                },
+                "PlaceOfBirthInfo": {}
+              },
+              "IdentityInfo": {
+                "PANId": [
+                  {
+                    "seq": "1",
+                    "ReportedDate": "2017-05-31",
+                    "IdNumber": "ARSPB2789E"
+                  }
+                ],
+                "RationCard": [
+                  {
+                    "seq": "1",
+                    "ReportedDate": "2015-03-31",
+                    "IdNumber": "DDN171419"
+                  }
+                ],
+                "OtherId": [
+                  {
+                    "seq": "1",
+                    "ReportedDate": "2017-05-31",
+                    "IdNumber": "81022246083"
+                  }
+                ]
+              },
+              "AddressInfo": [
+                {
+                  "Seq": "1",
+                  "ReportedDate": "2017-05-31",
+                  "Address": "169 RAJEEV NAGAR  TARLI KANDOLI DEHRADUN UTTARAKHAND DEHRADUN",
+                  "State": "UL",
+                  "Postal": "249145"
+                },
+                {
+                  "Seq": "2",
+                  "ReportedDate": "2015-03-31",
+                  "Address": "306 TARLI KANDOLI RAJIVNAGAR DEHRADUN DEHRADUN",
+                  "State": "UL",
+                  "Postal": "248003"
+                }
+              ],
+              "PhoneInfo": [
+                {
+                  "seq": "1",
+                  "typeCode": "M",
+                  "ReportedDate": "2017-05-31",
+                  "Number": "8191817766"
+                }
+              ]
+            },
+            "RetailAccountDetails": [
+              {
+                "seq": "1",
+                "AccountNumber": "00000036518184846",
+                "Institution": "State Bank Of India",
+                "AccountType": "Personal Loan",
+                "OwnershipType": "Individual",
+                "Balance": "256239",
+                "Open": "Yes",
+                "SanctionAmount": "300000",
+                "DateReported": "2018-01-31",
+                "DateOpened": "2017-02-06",
+                "InterestRate": "12.000",
+                "RepaymentTenure": "60",
+                "DisputeCode": "05",
+                "InstallmentAmount": "6742",
+                "TermFrequency": "Monthly",
+                "AccountStatus": "Standard",
+                "AssetClassification": "Standard",
+                "source": "INDIVIDUAL",
+                "History48Months": [
+                  {
+                    "key": "01-18",
+                    "PaymentStatus": "STD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "12-17",
+                    "PaymentStatus": "STD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "11-17",
+                    "PaymentStatus": "STD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "10-17",
+                    "PaymentStatus": "STD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "09-17",
+                    "PaymentStatus": "STD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "08-17",
+                    "PaymentStatus": "STD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "07-17",
+                    "PaymentStatus": "STD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "06-17",
+                    "PaymentStatus": "STD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "05-17",
+                    "PaymentStatus": "STD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "04-17",
+                    "PaymentStatus": "STD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "03-17",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "02-17",
+                    "PaymentStatus": "NEW",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  }
+                ]
+              },
+              {
+                "seq": "2",
+                "AccountNumber": "00000032983075935",
+                "Institution": "State Bank Of India",
+                "AccountType": "Personal Loan",
+                "OwnershipType": "Individual",
+                "Balance": "0",
+                "Open": "No",
+                "SanctionAmount": "100000",
+                "DateReported": "2016-11-30",
+                "DateOpened": "2013-05-07",
+                "DateClosed": "2016-11-30",
+                "Reason": "Closed Account",
+                "InterestRate": "14.000",
+                "RepaymentTenure": "60",
+                "DisputeCode": "04",
+                "InstallmentAmount": "0",
+                "TermFrequency": "Monthly",
+                "AccountStatus": "Closed Account",
+                "AssetClassification": "Standard",
+                "source": "INDIVIDUAL",
+                "History48Months": [
+                  {
+                    "key": "11-16",
+                    "PaymentStatus": "CLSD",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "10-16",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "09-16",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "08-16",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "07-16",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "06-16",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "05-16",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "04-16",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "03-16",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "02-16",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "01-16",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "12-15",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "11-15",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "10-15",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "09-15",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "08-15",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "07-15",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "06-15",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "05-15",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "04-15",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "03-15",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "02-15",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "01-15",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "12-14",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "11-14",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "10-14",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "09-14",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "08-14",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "07-14",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "06-14",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "05-14",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "04-14",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "03-14",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "02-14",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "01-14",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "12-13",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "11-13",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "10-13",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "09-13",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "08-13",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "07-13",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "06-13",
+                    "PaymentStatus": "000",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  },
+                  {
+                    "key": "05-13",
+                    "PaymentStatus": "NEW",
+                    "SuitFiledStatus": "*",
+                    "AssetClassificationStatus": "STD"
+                  }
+                ]
+              }
+            ],
+            "RetailAccountsSummary": {
+              "NoOfAccounts": "2",
+              "NoOfActiveAccounts": "1",
+              "NoOfWriteOffs": "0",
+              "TotalPastDue": "0.00",
+              "SingleHighestCredit": "0.00",
+              "SingleHighestSanctionAmount": "300000.00",
+              "TotalHighCredit": "0.00",
+              "AverageOpenBalance": "256239.00",
+              "SingleHighestBalance": "256239.00",
+              "NoOfPastDueAccounts": "0",
+              "NoOfZeroBalanceAccounts": "0",
+              "RecentAccount": "Personal Loan on 06-02-2017",
+              "OldestAccount": "Personal Loan on 07-05-2013",
+              "TotalBalanceAmount": "256239.00",
+              "TotalSanctionAmount": "300000.00",
+              "TotalCreditLimit": "0.0",
+              "TotalMonthlyPaymentAmount": "6742.00"
+            },
+            "ScoreDetails": [
+              {
+                "Type": "ERS",
+                "Version": "4.0",
+                "Name": "ERS4.0",
+                "Value": "703",
+                "ScoringElements": [
+                  {
+                    "type": "RES",
+                    "seq": "1",
+                    "code": "300",
+                    "Description": "No Active Accounts"
+                  },
+                  {
+                    "type": "RES",
+                    "seq": "2",
+                    "code": "302",
+                    "Description": "Total Utilization"
+                  },
+                  {
+                    "type": "RES",
+                    "seq": "3",
+                    "code": "304",
+                    "Description": "Number of Credit Cards"
+                  }
+                ]
+              }
+            ],
+            "Enquiries": [
+              {
+                "seq": "1",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-27",
+                "Time": "18:40",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "2",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-27",
+                "Time": "18:38",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "3",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-27",
+                "Time": "17:01",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "4",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:29",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "5",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:28",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "6",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:28",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "7",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:28",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "8",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:28",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "9",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:28",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "10",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:28",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "11",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:27",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "12",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:27",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "13",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:27",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "14",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:27",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "15",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:27",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "16",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:27",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "17",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:26",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "18",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:26",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "19",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:26",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "20",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:26",
+                "RequestPurpose": "00"
+              }
+            ],
+            "EnquirySummary": {
+              "Purpose": "ALL",
+              "Total": "1149",
+              "Past30Days": "0",
+              "Past12Months": "0",
+              "Past24Months": "0",
+              "Recent": "2019-08-27"
+            },
+            "OtherKeyInd": {
+              "AgeOfOldestTrade": "131",
+              "NumberOfOpenTrades": "0",
+              "AllLinesEVERWritten": "0.00",
+              "AllLinesEVERWrittenIn9Months": "0",
+              "AllLinesEVERWrittenIn6Months": "0"
+            },
+            "RecentActivities": {
+              "AccountsDeliquent": "0",
+              "AccountsOpened": "0",
+              "TotalInquiries": "0",
+              "AccountsUpdated": "0"
+            }
+          }
+        },
+        {
+          "InquiryResponseHeader": {
+            "CustomerCode": "SKSM",
+            "CustRefField": "123456",
+            "ReportOrderNO": "16009230",
+            "ProductCode": [
+              "MCS"
+            ],
+            "SuccessCode": "1",
+            "Date": "2024-04-17",
+            "Time": "16:19:14",
+            "HitCode": "10",
+            "CustomerName": "SKSM"
+          },
+          "InquiryRequestInfo": {
+            "InquiryPurpose": "Other",
+            "FirstName": "RAM SINGH BHANDARI",
+            "InquiryAddresses": [
+              {
+                "seq": "1",
+                "AddressType": [
+                  "H"
+                ],
+                "AddressLine1": "169 RAJEEV NAGAR  TARLI KANDOLI DEHRADUN UTTARAKHAND DEHRADUN",
+                "State": "UK",
+                "Postal": "249145"
+              }
+            ],
+            "InquiryPhones": [
+              {
+                "seq": "1",
+                "PhoneType": [
+                  "M"
+                ],
+                "Number": "8191817766"
+              }
+            ],
+            "IDDetails": [
+              {
+                "seq": "1",
+                "IDType": "T",
+                "IDValue": "ARSPB2789E",
+                "Source": "Inquiry"
+              }
+            ],
+            "DOB": "1960-05-30",
+            "MFIDetails": {
+              "FamilyDetails": [
+                {
+                  "seq": "1",
+                  "AdditionalNameType": "K01",
+                  "AdditionalName": "LAXMAN BHANDARI"
+                },
+                {
+                  "seq": "2",
+                  "AdditionalNameType": "K01"
+                }
+              ]
+            }
+          },
+          "Score": [
+            {
+              "Type": "ERS",
+              "Version": "4.0"
+            }
+          ],
+          "CIRReportData": {
+            "IDAndContactInfo": {
+              "PersonalInfo": {
+                "Name": {
+                  "FullName": "RAM  SINGH    BHANDARI  ",
+                  "FirstName": "RAM ",
+                  "MiddleName": "SINGH ",
+                  "LastName": "BHANDARI "
+                },
+                " AliasName": {},
+                "DateOfBirth": "1960-05-30",
+                "Gender": "Female",
+                "Age": {
+                  "Age": "63"
+                },
+                "PlaceOfBirthInfo": {},
+                "Occupation": "SELF- EMPLOYED",
+                "MaritalStatus": "Married"
+              },
+              "IdentityInfo": {
+                "PANId": [
+                  {
+                    "seq": "1",
+                    "ReportedDate": "2017-04-05",
+                    "IdNumber": "ARSPB2789E"
+                  }
+                ],
+                "VoterID": [
+                  {
+                    "seq": "1",
+                    "ReportedDate": "2016-03-07",
+                    "IdNumber": "UP84414477313"
+                  },
+                  {
+                    "seq": "2",
+                    "ReportedDate": "2016-02-01",
+                    "IdNumber": "UP84414477318"
+                  }
+                ],
+                "NationalIDCard": [
+                  {
+                    "seq": "1",
+                    "ReportedDate": "2017-09-30",
+                    "IdNumber": "XXXXXXXXXXXX"
+                  }
+                ],
+                "OtherId": [
+                  {
+                    "seq": "1",
+                    "ReportedDate": "2015-06-30",
+                    "IdNumber": "UP8441447"
+                  },
+                  {
+                    "seq": "1",
+                    "ReportedDate": "2014-12-31",
+                    "IdNumber": "UP84414477318"
+                  }
+                ]
+              },
+              "AddressInfo": [
+                {
+                  "Seq": "1",
+                  "ReportedDate": "2017-09-30",
+                  "Address": "SALLHA PUR III SAHARANPUR UTTAR PRADESH",
+                  "State": "UP",
+                  "Postal": "247342"
+                },
+                {
+                  "Seq": "2",
+                  "ReportedDate": "2017-09-30",
+                  "Address": "SALLHA PUR III SAHARANPUR UTTAR PRADESH",
+                  "State": "UP",
+                  "Postal": "247342"
+                },
+                {
+                  "Seq": "3",
+                  "ReportedDate": "2017-07-31",
+                  "Address": "169 RAJEEV NAGAR  TARLI KANDOLI DEHRADUN UTTARAKHAND DE",
+                  "State": "U\"",
+                  "Postal": "\"247342\""
+                },
+                {
+                  "Seq": "4",
+                  "ReportedDate": "2017-06-03",
+                  "Address": "SALAHAPUR SALAHAPUR VILL",
+                  "State": "UP",
+                  "Postal": "247342"
+                },
+                {
+                  "Seq": "5",
+                  "ReportedDate": "2017-06-03",
+                  "Address": "SALAHAPUR SALAHAPUR VILL",
+                  "State": "UP",
+                  "Postal": "247342"
+                }
+              ],
+              "PhoneInfo": [
+                {
+                  "seq": "1",
+                  "typeCode": "H",
+                  "ReportedDate": "2016-03-04",
+                  "Number": "7830774382"
+                },
+                {
+                  "seq": "2",
+                  "typeCode": "M",
+                  "ReportedDate": "2016-01-06",
+                  "Number": "7830774382"
+                },
+                {
+                  "seq": "3",
+                  "typeCode": "M",
+                  "ReportedDate": "2014-07-05",
+                  "Number": "8650125828"
+                }
+              ]
+            },
+            "MicrofinanceAccountDetails": [
+              {
+                "seq": "1",
+                "branchIDMFI": "118",
+                "kendraIDMFI": "12724",
+                "id": "5266271",
+                "AccountNumber": "5266271",
+                "CurrentBalance": "14014",
+                "Institution": "Sonata Finance Pvt Ltd",
+                "InstitutionType": "MFI",
+                "PastDueAmount": "0",
+                "DisbursedAmount": "21900",
+                "LoanCategory": "Individual",
+                "LoanPurpose": "AGRICULTURAL",
+                "Open": "Yes",
+                "SanctionAmount": "21900",
+                "LastPaymentDate": "2018-02-23",
+                "DateReported": "2018-02-28",
+                "DateOpened": "2017-09-05",
+                "LoanCycleID": "6",
+                "DateSanctioned": "2017-09-05",
+                "DateApplied": "2017-09-05",
+                "AppliedAmount": "21900",
+                "NoOfInstallments": "55",
+                "RepaymentTenure": "Weekly",
+                "InstallmentAmount": "450",
+                "KeyPerson": {
+                  "Name": "CHANDAN",
+                  "RelationType": "Father",
+                  "associationType": "K"
+                },
+                "AccountStatus": "Current Account",
+                "DaysPastDue": "0",
+                "MaxDaysPastDue": "0",
+                "InsurancePolicyAmount": "10000",
+                "source": "INDIVIDUAL",
+                "AdditionalMFIDetails": {
+                  "MFIClientFullname": "OMKALI  CHANDAN      ",
+                  "MFIGender": "Female",
+                  "MemberId": "1031677702",
+                  "MFIIdentification": {
+                    "NationalIDCard": [
+                      {
+                        "IdNumber": "XXXXXXXXXXXX"
+                      }
+                    ]
+                  },
+                  "MFIAddress": [
+                    {
+                      "Seq": "1",
+                      "ReportedDate": "2017-09-30",
+                      "Address": "SALLHA PUR III SAHARANPUR UTTAR PRADESH",
+                      "State": "UP",
+                      "Postal": "247342"
+                    }
+                  ]
+                },
+                "BranchIDMFI": "118",
+                "KendraIDMFI": "12724",
+                "History24Months": [
+                  {
+                    "key": "02-18",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "01-18",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "12-17",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "11-17",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "10-17",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "09-17",
+                    "PaymentStatus": "NEW"
+                  }
+                ]
+              },
+              {
+                "seq": "2",
+                "branchIDMFI": "3087",
+                "kendraIDMFI": "PRAMILA HOUSE30870004",
+                "id": "30878190033866",
+                "AccountNumber": "30878190033866",
+                "CurrentBalance": "34413",
+                "Institution": "Janlakshmi Financial Services Pvt Ltd",
+                "InstitutionType": "MFI",
+                "PastDueAmount": "6250",
+                "DisbursedAmount": "40000",
+                "LoanCategory": "JLG Individual",
+                "LoanPurpose": "A - BUYING EBUSINESS",
+                "Open": "Yes",
+                "SanctionAmount": "40000",
+                "LastPaymentDate": "2018-01-22",
+                "DateReported": "2018-01-31",
+                "DateOpened": "2017-03-10",
+                "LoanCycleID": "3",
+                "DateSanctioned": "2017-02-25",
+                "AppliedAmount": "40000",
+                "NoOfInstallments": "24",
+                "RepaymentTenure": "Monthly",
+                "InstallmentAmount": "2150",
+                "KeyPerson": {
+                  "Name": "LAXMAN BHANDARI",
+                  "RelationType": "Father",
+                  "associationType": "K"
+                },
+                "AccountStatus": "60-89 days past due",
+                "DaysPastDue": "63",
+                "MaxDaysPastDue": "63",
+                "TypeOfInsurance": "L",
+                "InsurancePolicyAmount": "40000",
+                "NumberOfMeetingsHeld": "1",
+                "NumberOfMeetingsMissed": "1",
+                "source": "INDIVIDUAL",
+                "AdditionalMFIDetails": {
+                  "MFIClientFullname": "RAM  SINGH    BHANDARI  ",
+                  "MFIDOB": "1960-05-30",
+                  "MFIGender": "Female",
+                  "MemberId": "927551405",
+                  "MFIIdentification": {
+                    "PANId": [
+                      {
+                        "IdNumber": "ARSPB2789E"
+                      }
+                    ]
+                  },
+                  "MFIAddress": [
+                    {
+                      "Seq": "1",
+                      "ReportedDate": "2017-07-31",
+                      "Address": "169 RAJEEV NAGAR  TARLI KANDOLI DEHRADUN UTTARAKHAND DE",
+                      "State": "U\"",
+                      "Postal": "\"247342\""
+                    }
+                  ],
+                  "MFIPhones": [
+                    {
+                      "seq": "0",
+                      "ReportedDate": "2017-07-31",
+                      "Number": "8191817766"
+                    }
+                  ]
+                },
+                "BranchIDMFI": "3087",
+                "KendraIDMFI": "PRAMILA HOUSE30870004",
+                "History24Months": [
+                  {
+                    "key": "01-18",
+                    "PaymentStatus": "60+"
+                  },
+                  {
+                    "key": "12-17",
+                    "PaymentStatus": "90+"
+                  },
+                  {
+                    "key": "11-17",
+                    "PaymentStatus": "60+"
+                  },
+                  {
+                    "key": "10-17",
+                    "PaymentStatus": "30+"
+                  },
+                  {
+                    "key": "09-17",
+                    "PaymentStatus": "30+"
+                  },
+                  {
+                    "key": "08-17",
+                    "PaymentStatus": "01+"
+                  },
+                  {
+                    "key": "07-17",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "06-17",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "05-17",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "04-17",
+                    "PaymentStatus": "NEW"
+                  }
+                ]
+              },
+              {
+                "seq": "3",
+                "branchIDMFI": "118",
+                "kendraIDMFI": "12724",
+                "id": "1870235",
+                "AccountNumber": "1870235",
+                "CurrentBalance": "0",
+                "Institution": "Sonata Finance Pvt Ltd",
+                "InstitutionType": "MFI",
+                "PastDueAmount": "0",
+                "DisbursedAmount": "29250",
+                "LoanCategory": "Individual",
+                "LoanPurpose": "COW PURCHASES",
+                "Open": "No",
+                "SanctionAmount": "29250",
+                "LastPaymentDate": "2017-09-05",
+                "DateReported": "2017-12-12",
+                "DateOpened": "2016-02-19",
+                "DateClosed": "2017-09-05",
+                "Reason": "Closed Account",
+                "LoanCycleID": "6",
+                "DateSanctioned": "2016-02-12",
+                "DateApplied": "2016-02-12",
+                "AppliedAmount": "29250",
+                "NoOfInstallments": "105",
+                "RepaymentTenure": "Weekly",
+                "InstallmentAmount": "0",
+                "KeyPerson": {
+                  "Name": "CHANDAN",
+                  "RelationType": "Father",
+                  "associationType": "K"
+                },
+                "AccountStatus": "Closed Account",
+                "DaysPastDue": "0",
+                "MaxDaysPastDue": "0",
+                "InsurancePolicyAmount": "10000",
+                "source": "INDIVIDUAL",
+                "AdditionalMFIDetails": {
+                  "MFIClientFullname": "OMKALI  CHANDAN      ",
+                  "MFIGender": "Female",
+                  "MemberId": "793040262",
+                  "MFIIdentification": {
+                    "NationalIDCard": [
+                      {
+                        "IdNumber": "XXXXXXXXXXXX"
+                      }
+                    ]
+                  },
+                  "MFIAddress": [
+                    {
+                      "Seq": "1",
+                      "ReportedDate": "2017-09-30",
+                      "Address": "SALLHA PUR III SAHARANPUR UTTAR PRADESH",
+                      "State": "UP",
+                      "Postal": "247342"
+                    }
+                  ]
+                },
+                "BranchIDMFI": "118",
+                "KendraIDMFI": "12724",
+                "History24Months": [
+                  {
+                    "key": "12-17",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "11-17",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "10-17",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "09-17",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "08-17",
+                    "PaymentStatus": "*"
+                  },
+                  {
+                    "key": "07-17",
+                    "PaymentStatus": "*"
+                  },
+                  {
+                    "key": "06-17",
+                    "PaymentStatus": "*"
+                  },
+                  {
+                    "key": "05-17",
+                    "PaymentStatus": "*"
+                  },
+                  {
+                    "key": "04-17",
+                    "PaymentStatus": "*"
+                  },
+                  {
+                    "key": "03-17",
+                    "PaymentStatus": "*"
+                  },
+                  {
+                    "key": "02-17",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "01-17",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "12-16",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "11-16",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "10-16",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "09-16",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "08-16",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "07-16",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "06-16",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "05-16",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "04-16",
+                    "PaymentStatus": "000"
+                  }
+                ]
+              },
+              {
+                "seq": "4",
+                "branchIDMFI": "1190",
+                "kendraIDMFI": "1186510030",
+                "id": "52150041675003",
+                "AccountNumber": "52150041675003",
+                "CurrentBalance": "0",
+                "Institution": "Bandhan Financial Services Private Limited",
+                "InstitutionType": "MFI",
+                "PastDueAmount": "0",
+                "DisbursedAmount": "20000",
+                "LoanCategory": "JLG Individual",
+                "LoanPurpose": "113",
+                "Open": "No",
+                "SanctionAmount": "20000",
+                "LastPaymentDate": "2015-11-02",
+                "DateReported": "2017-08-02",
+                "DateOpened": "2014-12-17",
+                "DateClosed": "2015-11-02",
+                "Reason": "Closed Account",
+                "DateSanctioned": "2014-12-17",
+                "DateApplied": "2014-12-17",
+                "AppliedAmount": "20000",
+                "NoOfInstallments": "104",
+                "RepaymentTenure": "Weekly",
+                "InstallmentAmount": "0",
+                "KeyPerson": {
+                  "Name": "RAM PAL",
+                  "RelationType": "Husband",
+                  "associationType": "K"
+                },
+                "AccountStatus": "Closed Account",
+                "DaysPastDue": "0",
+                "MaxDaysPastDue": "0",
+                "source": "INDIVIDUAL",
+                "AdditionalMFIDetails": {
+                  "MFIClientFullname": "OMKALI      ",
+                  "MFIDOB": "1965-12-17",
+                  "MFIGender": "Female",
+                  "MemberId": "747230225",
+                  "MFIIdentification": {
+                    "VoterID": [
+                      {
+                        "IdNumber": "UP84414477318"
+                      }
+                    ],
+                    "OtherId": [
+                      {
+                        "IdNumber": "UP84414477318"
+                      }
+                    ]
+                  },
+                  "MFIAddress": [
+                    {
+                      "Seq": "1",
+                      "ReportedDate": "2015-06-30",
+                      "Address": "SALHAPURNAKUR SAHARANPUR",
+                      "State": "UP",
+                      "Postal": "247342"
+                    }
+                  ]
+                },
+                "BranchIDMFI": "1190",
+                "KendraIDMFI": "1186510030",
+                "History24Months": [
+                  {
+                    "key": "08-17",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "07-17",
+                    "PaymentStatus": "*"
+                  },
+                  {
+                    "key": "06-17",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "05-17",
+                    "PaymentStatus": "*"
+                  },
+                  {
+                    "key": "04-17",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "03-17",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "02-17",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "01-17",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "12-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "11-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "10-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "09-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "08-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "07-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "06-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "05-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "04-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "03-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "02-16",
+                    "PaymentStatus": "CLSD"
+                  }
+                ]
+              },
+              {
+                "seq": "5",
+                "branchIDMFI": "1190",
+                "kendraIDMFI": "1186510030",
+                "id": "52150041680393",
+                "AccountNumber": "52150041680393",
+                "CurrentBalance": "0",
+                "Institution": "Bandhan Financial Services Private Limited",
+                "InstitutionType": "MFI",
+                "PastDueAmount": "0",
+                "DisbursedAmount": "25000",
+                "LoanCategory": "JLG Individual",
+                "LoanPurpose": "102",
+                "Open": "No",
+                "SanctionAmount": "25000",
+                "LastPaymentDate": "2016-02-29",
+                "DateReported": "2017-08-02",
+                "DateOpened": "2015-05-18",
+                "DateClosed": "2016-02-29",
+                "Reason": "Closed Account",
+                "DateSanctioned": "2015-05-18",
+                "DateApplied": "2015-05-18",
+                "AppliedAmount": "25000",
+                "NoOfInstallments": "104",
+                "RepaymentTenure": "Weekly",
+                "InstallmentAmount": "0",
+                "KeyPerson": {
+                  "Name": "RAKM SINGH",
+                  "RelationType": "Husband",
+                  "associationType": "K"
+                },
+                "AccountStatus": "Closed Account",
+                "DaysPastDue": "0",
+                "MaxDaysPastDue": "0",
+                "source": "INDIVIDUAL",
+                "AdditionalMFIDetails": {
+                  "MFIClientFullname": "OMKALI      ",
+                  "MFIDOB": "1957-05-18",
+                  "MFIGender": "Female",
+                  "MemberId": "635977476",
+                  "MFIIdentification": {
+                    "OtherId": [
+                      {
+                        "IdNumber": "UP8441447"
+                      }
+                    ]
+                  },
+                  "MFIAddress": [
+                    {
+                      "Seq": "1",
+                      "ReportedDate": "2015-06-30",
+                      "Address": "SALAHAPUR SAHARANPUR",
+                      "State": "UP",
+                      "Postal": "247342"
+                    }
+                  ]
+                },
+                "BranchIDMFI": "1190",
+                "KendraIDMFI": "1186510030",
+                "History24Months": [
+                  {
+                    "key": "08-17",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "07-17",
+                    "PaymentStatus": "*"
+                  },
+                  {
+                    "key": "06-17",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "05-17",
+                    "PaymentStatus": "*"
+                  },
+                  {
+                    "key": "04-17",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "03-17",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "02-17",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "01-17",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "12-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "11-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "10-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "09-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "08-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "07-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "06-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "05-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "04-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "03-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "02-16",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "01-16",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "12-15",
+                    "PaymentStatus": "*"
+                  },
+                  {
+                    "key": "11-15",
+                    "PaymentStatus": "*"
+                  },
+                  {
+                    "key": "10-15",
+                    "PaymentStatus": "*"
+                  },
+                  {
+                    "key": "09-15",
+                    "PaymentStatus": "*"
+                  }
+                ]
+              },
+              {
+                "seq": "6",
+                "branchIDMFI": "1538",
+                "kendraIDMFI": "1186510030",
+                "id": "52160009306707",
+                "AccountNumber": "52160009306707",
+                "CurrentBalance": "0",
+                "Institution": "Bandhan Financial Services Private Limited",
+                "InstitutionType": "MFI",
+                "PastDueAmount": "0",
+                "DisbursedAmount": "30000",
+                "LoanCategory": "JLG Individual",
+                "LoanPurpose": "11307",
+                "Open": "No",
+                "SanctionAmount": "30000",
+                "LastPaymentDate": "2017-02-27",
+                "DateReported": "2017-06-30",
+                "DateOpened": "2016-02-29",
+                "DateClosed": "2017-02-27",
+                "Reason": "Closed Account",
+                "DateApplied": "2016-02-29",
+                "AppliedAmount": "30000",
+                "NoOfInstallments": "52",
+                "RepaymentTenure": "Weekly",
+                "InstallmentAmount": "0",
+                "KeyPerson": {
+                  "Name": "RAKM SINGH",
+                  "RelationType": "Husband",
+                  "associationType": "K"
+                },
+                "AccountStatus": "Closed Account",
+                "DaysPastDue": "0",
+                "MaxDaysPastDue": "0",
+                "source": "INDIVIDUAL",
+                "AdditionalMFIDetails": {
+                  "MFIClientFullname": "OMKALI  NA      ",
+                  "MFIDOB": "1957-05-18",
+                  "MFIGender": "Female",
+                  "MemberId": "758404249",
+                  "MFIIdentification": {
+                    "VoterID": [
+                      {
+                        "IdNumber": "UP84414477313"
+                      }
+                    ]
+                  },
+                  "MFIAddress": [
+                    {
+                      "Seq": "1",
+                      "ReportedDate": "2017-06-03",
+                      "Address": "SALAHAPUR SALAHAPUR VILL",
+                      "State": "UP",
+                      "Postal": "247342"
+                    }
+                  ]
+                },
+                "BranchIDMFI": "1538",
+                "KendraIDMFI": "1186510030",
+                "History24Months": [
+                  {
+                    "key": "06-17",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "05-17",
+                    "PaymentStatus": "*"
+                  },
+                  {
+                    "key": "04-17",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "03-17",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "02-17",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "01-17",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "12-16",
+                    "PaymentStatus": "01+"
+                  },
+                  {
+                    "key": "11-16",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "10-16",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "09-16",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "08-16",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "07-16",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "06-16",
+                    "PaymentStatus": "*"
+                  },
+                  {
+                    "key": "05-16",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "04-16",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "03-16",
+                    "PaymentStatus": "NEW"
+                  }
+                ]
+              },
+              {
+                "seq": "7",
+                "branchIDMFI": "3087",
+                "kendraIDMFI": "SUNETA HOUSE30870004",
+                "id": "30878150017187",
+                "AccountNumber": "30878150017187",
+                "CurrentBalance": "0",
+                "Institution": "Janlakshmi Financial Services Pvt Ltd",
+                "InstitutionType": "MFI",
+                "PastDueAmount": "0",
+                "DisbursedAmount": "25000",
+                "LoanPurpose": "A - BUYING EBUSINESS",
+                "Open": "No",
+                "SanctionAmount": "25000",
+                "DateReported": "2016-07-07",
+                "DateOpened": "2014-08-27",
+                "DateClosed": "2016-03-23",
+                "Reason": "Closed Account",
+                "LoanCycleID": "2",
+                "DateSanctioned": "2014-08-25",
+                "AppliedAmount": "25000",
+                "NoOfInstallments": "24",
+                "RepaymentTenure": "Monthly",
+                "KeyPerson": {
+                  "Name": "RAMPAL",
+                  "RelationType": "Husband",
+                  "associationType": "K"
+                },
+                "AccountStatus": "Closed Account",
+                "DaysPastDue": "0",
+                "MaxDaysPastDue": "0",
+                "TypeOfInsurance": "L",
+                "InsurancePolicyAmount": "25000",
+                "NumberOfMeetingsHeld": "1",
+                "NumberOfMeetingsMissed": "0",
+                "source": "INDIVIDUAL",
+                "AdditionalMFIDetails": {
+                  "MFIClientFullname": "OMKALI  RAMPAL      ",
+                  "MFIDOB": "1965-01-01",
+                  "MFIGender": "Female",
+                  "MemberId": "517284822",
+                  "MFIIdentification": {
+                    "VoterID": [
+                      {
+                        "IdNumber": "UP84414477318"
+                      }
+                    ]
+                  },
+                  "MFIAddress": [
+                    {
+                      "Seq": "1",
+                      "ReportedDate": "2016-03-04",
+                      "Address": "224 SALAHPUR NAKUR - SAHARANPUR",
+                      "Postal": "247342"
+                    }
+                  ],
+                  "MFIPhones": [
+                    {
+                      "seq": "0",
+                      "ReportedDate": "2016-03-04",
+                      "Number": "7830774382"
+                    },
+                    {
+                      "seq": "1",
+                      "ReportedDate": "2016-01-06",
+                      "Number": "7830774382"
+                    }
+                  ]
+                },
+                "BranchIDMFI": "3087",
+                "KendraIDMFI": "SUNETA HOUSE30870004",
+                "History24Months": [
+                  {
+                    "key": "07-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "06-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "05-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "04-16",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "03-16",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "02-16",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "01-16",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "12-15",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "11-15",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "10-15",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "09-15",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "08-15",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "07-15",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "06-15",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "05-15",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "04-15",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "03-15",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "02-15",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "01-15",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "12-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "11-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "10-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "09-14",
+                    "PaymentStatus": "NEW"
+                  }
+                ]
+              },
+              {
+                "seq": "8",
+                "branchIDMFI": "11865",
+                "kendraIDMFI": "1186510030",
+                "id": "1186511101",
+                "AccountNumber": "1186511101",
+                "CurrentBalance": "0",
+                "Institution": "Bandhan Financial Services Private Limited",
+                "InstitutionType": "MFI",
+                "PastDueAmount": "0",
+                "DisbursedAmount": "15000",
+                "LoanCategory": "JLG Group",
+                "LoanPurpose": "BUFFALO BUSINESS",
+                "Open": "No",
+                "SanctionAmount": "15000",
+                "DateReported": "2015-08-06",
+                "DateOpened": "2014-05-12",
+                "DateClosed": "2015-05-11",
+                "Reason": "Closed Account",
+                "NoOfInstallments": "52",
+                "RepaymentTenure": "Weekly",
+                "InstallmentAmount": "0",
+                "KeyPerson": {
+                  "Name": "RAKM SINGH",
+                  "RelationType": "Husband",
+                  "associationType": "K"
+                },
+                "AccountStatus": "Closed Account",
+                "DaysPastDue": "0",
+                "MaxDaysPastDue": "0",
+                "source": "INDIVIDUAL",
+                "AdditionalMFIDetails": {
+                  "MFIClientFullname": "OMKALI      ",
+                  "MFIDOB": "1957-05-18",
+                  "MFIGender": "Female",
+                  "MemberId": "478506813",
+                  "MFIIdentification": {
+                    "VoterID": [
+                      {
+                        "IdNumber": "UP84414477313"
+                      }
+                    ],
+                    "OtherId": [
+                      {
+                        "IdNumber": "UP84414477313"
+                      }
+                    ]
+                  },
+                  "MFIAddress": [
+                    {
+                      "Seq": "1",
+                      "ReportedDate": "2015-07-10",
+                      "Address": "SALAHAPUR SAHARANPUR",
+                      "State": "UP",
+                      "Postal": "247342"
+                    }
+                  ]
+                },
+                "BranchIDMFI": "11865",
+                "KendraIDMFI": "1186510030",
+                "History24Months": [
+                  {
+                    "key": "08-15",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "07-15",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "06-15",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "05-15",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "04-15",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "03-15",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "02-15",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "01-15",
+                    "PaymentStatus": "*"
+                  },
+                  {
+                    "key": "12-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "11-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "10-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "09-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "08-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "07-14",
+                    "PaymentStatus": "*"
+                  },
+                  {
+                    "key": "06-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "05-14",
+                    "PaymentStatus": "NEW"
+                  }
+                ]
+              },
+              {
+                "seq": "9",
+                "branchIDMFI": "11865",
+                "kendraIDMFI": "1186510030",
+                "id": "1186510527",
+                "AccountNumber": "1186510527",
+                "CurrentBalance": "0",
+                "Institution": "Bandhan Financial Services Private Limited",
+                "InstitutionType": "MFI",
+                "PastDueAmount": "0",
+                "DisbursedAmount": "12000",
+                "LoanCategory": "JLG Group",
+                "LoanPurpose": "BUFFALO BUSINESS",
+                "Open": "No",
+                "SanctionAmount": "12000",
+                "DateReported": "2015-04-09",
+                "DateOpened": "2014-01-06",
+                "DateClosed": "2014-12-17",
+                "Reason": "Closed Account",
+                "NoOfInstallments": "52",
+                "RepaymentTenure": "Weekly",
+                "InstallmentAmount": "0",
+                "KeyPerson": {
+                  "Name": "RAMPAL",
+                  "RelationType": "Husband",
+                  "associationType": "K"
+                },
+                "AccountStatus": "Closed Account",
+                "DaysPastDue": "0",
+                "MaxDaysPastDue": "0",
+                "source": "INDIVIDUAL",
+                "AdditionalMFIDetails": {
+                  "MFIClientFullname": "OMKALI      ",
+                  "MFIDOB": "1965-12-17",
+                  "MFIGender": "Female",
+                  "MemberId": "444719992",
+                  "MFIIdentification": {
+                    "VoterID": [
+                      {
+                        "IdNumber": "UP84414477313"
+                      }
+                    ]
+                  },
+                  "MFIAddress": [
+                    {
+                      "Seq": "1",
+                      "ReportedDate": "2014-12-31",
+                      "Address": "SALHAPURNAKUR SAHARANPUR",
+                      "State": "UP",
+                      "Postal": "247342"
+                    }
+                  ]
+                },
+                "BranchIDMFI": "11865",
+                "KendraIDMFI": "1186510030",
+                "History24Months": [
+                  {
+                    "key": "04-15",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "03-15",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "02-15",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "01-15",
+                    "PaymentStatus": "*"
+                  },
+                  {
+                    "key": "12-14",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "11-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "10-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "09-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "08-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "07-14",
+                    "PaymentStatus": "*"
+                  },
+                  {
+                    "key": "06-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "05-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "04-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "03-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "02-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "01-14",
+                    "PaymentStatus": "NEW"
+                  }
+                ]
+              },
+              {
+                "seq": "10",
+                "branchIDMFI": "3087",
+                "kendraIDMFI": "BABALI HOME30870004",
+                "id": "30878140016155",
+                "AccountNumber": "30878140016155",
+                "CurrentBalance": "0",
+                "Institution": "Janlakshmi Financial Services Pvt Ltd",
+                "InstitutionType": "MFI",
+                "PastDueAmount": "0",
+                "DisbursedAmount": "15000",
+                "LoanCategory": "JLG Individual",
+                "LoanPurpose": "A - BUYING EBUSINESS",
+                "Open": "No",
+                "SanctionAmount": "15000",
+                "DateReported": "2014-11-07",
+                "DateOpened": "2013-08-29",
+                "DateClosed": "2014-08-31",
+                "Reason": "Closed Account",
+                "LoanCycleID": "1",
+                "DateSanctioned": "2013-08-26",
+                "AppliedAmount": "15000",
+                "NoOfInstallments": "12",
+                "RepaymentTenure": "Monthly",
+                "AccountStatus": "Closed Account",
+                "DaysPastDue": "0",
+                "MaxDaysPastDue": "0",
+                "TypeOfInsurance": "L",
+                "InsurancePolicyAmount": "15000",
+                "NumberOfMeetingsHeld": "1",
+                "NumberOfMeetingsMissed": "0",
+                "source": "INDIVIDUAL",
+                "AdditionalMFIDetails": {
+                  "MFIClientFullname": "OMKALI  RAMPAL      ",
+                  "MFIDOB": "1965-01-01",
+                  "MFIGender": "Female",
+                  "MemberId": "384037693",
+                  "MFIIdentification": {
+                    "VoterID": [
+                      {
+                        "IdNumber": "UP84414477318"
+                      }
+                    ],
+                    "OtherId": [
+                      {
+                        "IdNumber": "UP84414477318"
+                      }
+                    ]
+                  },
+                  "MFIAddress": [
+                    {
+                      "Seq": "1",
+                      "ReportedDate": "2014-11-07",
+                      "Address": "224 SALAHPUR NAKUR - SAHARANPUR",
+                      "Postal": "247342"
+                    }
+                  ],
+                  "MFIPhones": [
+                    {
+                      "seq": "0",
+                      "ReportedDate": "2014-11-07",
+                      "Number": "7830774382"
+                    }
+                  ]
+                },
+                "BranchIDMFI": "3087",
+                "KendraIDMFI": "BABALI HOME30870004",
+                "History24Months": [
+                  {
+                    "key": "11-14",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "10-14",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "09-14",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "08-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "07-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "06-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "05-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "04-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "03-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "02-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "01-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "12-13",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "11-13",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "10-13",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "09-13",
+                    "PaymentStatus": "NEW"
+                  }
+                ]
+              },
+              {
+                "seq": "11",
+                "branchIDMFI": "3087",
+                "kendraIDMFI": "SAVITA HOME30870004",
+                "id": "30878140007172",
+                "AccountNumber": "30878140007172",
+                "CurrentBalance": "0",
+                "Institution": "Janlakshmi Financial Services Pvt Ltd",
+                "InstitutionType": "MFI",
+                "PastDueAmount": "0",
+                "DisbursedAmount": "15000",
+                "LoanCategory": "JLG Individual",
+                "LoanPurpose": "A - BUYING EBUSINESS",
+                "Open": "No",
+                "SanctionAmount": "15000",
+                "DateReported": "2014-09-06",
+                "DateOpened": "2013-06-29",
+                "DateClosed": "2014-06-30",
+                "Reason": "Closed Account",
+                "LoanCycleID": "1",
+                "DateSanctioned": "2013-06-27",
+                "AppliedAmount": "15000",
+                "NoOfInstallments": "12",
+                "RepaymentTenure": "Monthly",
+                "AccountStatus": "Closed Account",
+                "DaysPastDue": "0",
+                "MaxDaysPastDue": "0",
+                "TypeOfInsurance": "L",
+                "InsurancePolicyAmount": "15000",
+                "NumberOfMeetingsHeld": "1",
+                "NumberOfMeetingsMissed": "0",
+                "source": "INDIVIDUAL",
+                "AdditionalMFIDetails": {
+                  "MFIClientFullname": "OMKALI  RAKAMA      ",
+                  "MFIDOB": "1957-01-01",
+                  "MFIGender": "Female",
+                  "MemberId": "367957346",
+                  "MFIIdentification": {
+                    "VoterID": [
+                      {
+                        "IdNumber": "UP84414477313"
+                      }
+                    ],
+                    "OtherId": [
+                      {
+                        "IdNumber": "UP84414477313"
+                      }
+                    ]
+                  },
+                  "MFIAddress": [
+                    {
+                      "Seq": "1",
+                      "ReportedDate": "2014-06-05",
+                      "Address": "220 SALHPUR NAKUR - SAHARANPUR",
+                      "Postal": "247232"
+                    }
+                  ],
+                  "MFIPhones": [
+                    {
+                      "seq": "0",
+                      "ReportedDate": "2014-07-05",
+                      "Number": "8650125828"
+                    },
+                    {
+                      "seq": "1",
+                      "ReportedDate": "2014-06-05",
+                      "Number": "9759324291"
+                    }
+                  ]
+                },
+                "BranchIDMFI": "3087",
+                "KendraIDMFI": "SAVITA HOME30870004",
+                "History24Months": [
+                  {
+                    "key": "09-14",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "08-14",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "07-14",
+                    "PaymentStatus": "CLSD"
+                  },
+                  {
+                    "key": "06-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "05-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "04-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "03-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "02-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "01-14",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "12-13",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "11-13",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "10-13",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "09-13",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "08-13",
+                    "PaymentStatus": "000"
+                  },
+                  {
+                    "key": "07-13",
+                    "PaymentStatus": "NEW"
+                  }
+                ]
+              }
+            ],
+            "MicrofinanceAccountsSummary": {
+              "id": "INDIVIDUAL",
+              "NoOfActiveAccounts": "2",
+              "TotalPastDue": "6250.00",
+              "NoOfPastDueAccounts": "1",
+              "RecentAccount": "MicroFinance Personal Loan on 05-09-2017",
+              "TotalBalanceAmount": "48427.00",
+              "TotalMonthlyPaymentAmount": "3950.00",
+              "TotalWrittenOffAmount": "0.00",
+              "Id": "INDIVIDUAL"
+            },
+            "IncomeDetails": [
+              {
+                "povertyIndex": "113",
+                "assetOwnership": "Y",
+                "seq": 1,
+                "reportedDate": "2017-09-30"
+              },
+              {
+                "povertyIndex": "113",
+                "assetOwnership": "Y",
+                "seq": 3,
+                "reportedDate": "2017-09-30"
+              },
+              {
+                "occupation": "SELF- EMPLOYED",
+                "monthlyExpense": "7000",
+                "assetOwnership": "Y",
+                "seq": 2,
+                "reportedDate": "2017-07-31"
+              },
+              {
+                "seq": 6,
+                "reportedDate": "2017-06-03"
+              },
+              {
+                "occupation": "SELF- EMPLOYED",
+                "monthlyIncome": "10000",
+                "monthlyExpense": "5000",
+                "assetOwnership": "Y",
+                "seq": 7,
+                "reportedDate": "2016-03-04"
+              },
+              {
+                "seq": 8,
+                "reportedDate": "2015-07-10"
+              },
+              {
+                "seq": 4,
+                "reportedDate": "2015-06-30"
+              },
+              {
+                "seq": 5,
+                "reportedDate": "2015-06-30"
+              },
+              {
+                "seq": 9,
+                "reportedDate": "2014-12-31"
+              },
+              {
+                "occupation": "Z02",
+                "monthlyIncome": "10000",
+                "assetOwnership": "Y",
+                "seq": 10,
+                "reportedDate": "2014-11-07"
+              },
+              {
+                "occupation": "Z02",
+                "monthlyIncome": "10000",
+                "assetOwnership": "Y",
+                "seq": 11,
+                "reportedDate": "2014-07-05"
+              }
+            ],
+            "familyDetailsInfo": {
+              "relatives": [
+                {
+                  "AdditionalNameType": "Father",
+                  "AdditionalName": "LAXMAN BHANDARI"
+                }
+              ]
+            },
+            "ScoreDetails": [
+              {
+                "Type": "MRS",
+                "Name": "Microfinance Risk Score",
+                "Value": "820",
+                "ScoringElements": [
+                  {
+                    "seq": "1",
+                    "code": "105",
+                    "Description": "Delinquency"
+                  },
+                  {
+                    "seq": "2",
+                    "code": "104",
+                    "Description": "Distinct MFI Loans Count"
+                  }
+                ]
+              }
+            ],
+            "Enquiries": [
+              {
+                "seq": "1",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-27",
+                "Time": "18:40",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "2",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-27",
+                "Time": "18:38",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "3",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-27",
+                "Time": "17:01",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "4",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:29",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "5",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:28",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "6",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:28",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "7",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:28",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "8",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:28",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "9",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:28",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "10",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:28",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "11",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:27",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "12",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:27",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "13",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:27",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "14",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:27",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "15",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:27",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "16",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:27",
+                "RequestPurpose": "00"
+              },
+              {
+                "seq": "17",
+                "Institution": "CCR MEMBER",
+                "Date": "2019-08-14",
+                "Time": "18:26",
+                "RequestPurpose": "00"
+              }
+            ],
+            "EnquirySummary": {},
+            "OtherKeyInd": {
+              "NumberOfOpenTrades": "2"
+            }
+          }
+        }
+      ]
+    }
+  }
